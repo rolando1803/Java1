@@ -1,1 +1,4 @@
 
+Durante la clase, se discutió el costo del curso y la progresión en la dificultad a medida que avanzan en los programas. Se abordaron cuestiones prácticas, como la orientación de una llave y la corrección de errores en el código, específicamente relacionados con el uso de bucles y variables de control. Se hizo hincapié en la importancia de entender y manejar adecuadamente las variables de control dentro de los bucles, destacando ejemplos prácticos.
+
+Se mencionó la necesidad de considerar la eficiencia al escribir código y se explicó cómo realizar pruebas unitarias para verificar la funcionalidad del programa. Se proporcionó un ejemplo práctico de lectura de notas, clasificación de aprobados y suspensos, y se discutió la implementación de un acumulador para calcular la media de los datos ingresados. La clase finalizó con la programación de un descanso y la promesa de retomar la sesión después de 20 minutos.
