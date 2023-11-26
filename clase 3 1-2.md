@@ -1,3 +1,4 @@
+El profesor explica conceptos relacionados con operadores lógicos, específicamente el operador "and" y el operador "o" en programación. Menciona la importancia de estos operadores para establecer condiciones en un programa. Luego, presenta un programa que utiliza estos operadores para determinar si una nota está entre cinco y seis, y explica la estructura de decisiones anidadas.
 
 ![image](https://github.com/rolando1803/Java1/assets/55965131/9701aaee-8bd8-4ad2-adc9-a945dc450e8e)
 ![image](https://github.com/rolando1803/Java1/assets/55965131/a6124e11-69a4-4faf-a09a-f586ec5fbd10)
