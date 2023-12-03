@@ -1,4 +1,3 @@
-
 Resumen de "java 7 2/3":
 
 El hablante comparte su experiencia en programación orientada a objetos (POO) con Java. Destaca la importancia de comprender los paradigmas de programación, como la programación estructurada y la POO. Explica la creación de clases, utilizando ejemplos como la clase "Libro" con atributos como título, páginas y precio.
