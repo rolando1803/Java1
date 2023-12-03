@@ -1,3 +1,4 @@
+
 El fragmento proporcionado parece ser una transcripción de una sesión de programación en Java, específicamente relacionada con la creación de clases y métodos para simular un sistema de venta de entradas de cine. A continuación, se presenta un resumen de los puntos clave mencionados:
 
 Contexto General:
