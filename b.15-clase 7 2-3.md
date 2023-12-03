@@ -20,4 +20,10 @@ Se menciona la creación de objetos a partir de estas clases, donde cada objeto 
 
 Se muestra la creación de objetos de tipo "Autor" y se menciona la posibilidad de editar los datos de un objeto existente. Finalmente, hay una referencia a la necesidad de compilar y reiniciar el proyecto debido a un error en la creación de una nueva clase.
 ![image](https://github.com/rolando1803/Java1/assets/55965131/e2cc4b37-8bda-4acd-bcb2-2e041761563f)
+![image](https://github.com/rolando1803/Java1/assets/55965131/2f96f998-e51b-482b-a136-0e50f6553367)
+
+Tarea
+
+![image](https://github.com/rolando1803/Java1/assets/55965131/5b55875b-51cf-48d6-92d8-1a5d7a3c5e55)
+
 
