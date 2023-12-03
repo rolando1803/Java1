@@ -1,4 +1,3 @@
-
 El texto proporcionado parece ser una transcripción de un tutorial o sesión de programación en Java. Aquí tienes un resumen de los puntos clave:
 
 Contexto General:
