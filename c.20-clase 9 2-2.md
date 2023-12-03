@@ -1,12 +1,32 @@
 El fragmento menciona el proceso de programación en Java, específicamente en la creación de clases y la implementación de herencia. Aquí están los puntos clave:
+![image](https://github.com/rolando1803/Java1/assets/55965131/2ed93c69-b6e0-4b22-84e6-d041847ba477)
 
 Creación de una nueva clase llamada "Supervisor" en Java 9.
+![image](https://github.com/rolando1803/Java1/assets/55965131/eb8cfa6b-9455-4b48-8606-b5a7416916b9)
+
 Se utiliza la herencia para evitar la repetición de código, extendiendo la clase "Empleado" a la clase "Supervisor".
+
+![image](https://github.com/rolando1803/Java1/assets/55965131/fae728fc-19f5-47ae-bb98-ca0e650faf38)
+
 Se menciona la eficiencia de la herencia al heredar atributos y métodos de la clase padre.
 Se destacan las ventajas de la herencia al ahorrar tiempo y reducir la duplicación de código.
 Se discute la creación de métodos específicos para la clase "Supervisor", como el método "importanciaSupervisor".
-Se habla sobre la cantidad de métodos que se ahorran al utilizar herencia, y se mencionan ejemplos como el cálculo de sueldo.
+
+![image](https://github.com/rolando1803/Java1/assets/55965131/c35aa9c7-c940-4f1a-8806-426f6fc661a4)
+
+Se habla sobre la cantidad de métodos que se ahorran al utilizar herencia, y se mencionan ejemplos como el cálculo de s
+ueldo.
+
+![image](https://github.com/rolando1803/Java1/assets/55965131/753b797a-5b4f-4c3f-95e1-4f9f11b457dd)
+![image](https://github.com/rolando1803/Java1/assets/55965131/6e7e830d-03f9-412e-8d95-d1632f8af5aa)
+![image](https://github.com/rolando1803/Java1/assets/55965131/bc0eb466-01cf-4334-8191-a196fe9726f3)
+![image](https://github.com/rolando1803/Java1/assets/55965131/5464bbd2-0258-4a99-be97-c4570a817aa6)
+![image](https://github.com/rolando1803/Java1/assets/55965131/ecd1f1e3-6141-4838-a6e1-779f34e1be32)
+![image](https://github.com/rolando1803/Java1/assets/55965131/614f8b94-2816-443b-8c46-1b40889cb290)
+
 Se muestra un ejemplo adicional de creación de una clase "Aerolínea" con atributos como "nombre", "sirena", "transmisión", "puertas", entre otros.
+![image](https://github.com/rolando1803/Java1/assets/55965131/e64adca5-6512-40ce-a817-deac1f274316)
+
 Se menciona un error en el código relacionado con el método "importanciaSupervisor" y se realiza una corrección.
 Se aborda una pregunta sobre la visibilidad de métodos y atributos heredados en Java.
 Se habla sobre la sobrecarga de constructores y la posibilidad de tener un constructor privado.
