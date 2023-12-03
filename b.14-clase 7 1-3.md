@@ -1,3 +1,4 @@
+
 El texto menciona varios puntos sobre programación en Java 7. Aquí están los puntos clave:
 
 Introducción y Contexto:
