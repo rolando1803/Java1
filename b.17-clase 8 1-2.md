@@ -1,4 +1,3 @@
-
 En este video de Java, el presentador comienza comentando que está conectándose desde un lugar con señal débil. Luego, menciona que está retomando lo que dejó pendiente en el video anterior y muestra código en Eclipse. Explica la creación de una clase llamada "SalaDeCine" que sirve como una plantilla para crear objetos que representan salas de cine con películas.
 
 El presentador aborda el tema de la herencia en Java, mostrando cómo una clase puede heredar atributos y métodos de otra. Explica la creación de cuadros de texto (JTextField) y etiquetas (JLabel) en la interfaz gráfica, mencionando cómo posiciona y agrega estos elementos a la ventana. También discute la importancia de añadir los componentes a la ventana para que sean visibles.
